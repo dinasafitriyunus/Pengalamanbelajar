@@ -14,6 +14,8 @@
 * Belajar tipe data koleksi, seperti list, set, dan map.
 <p></p>
 
+*belajar pemograman itu mengasikkan, fighting dinaaa*
+
 ***10 Agustus 2023***  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
